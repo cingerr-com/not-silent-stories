@@ -1,0 +1,7 @@
+name = "not-silent-stories"
+pages_build_output_dir = "dist"
+
+[vars]
+# You should add your Sanity variables here or in the Cloudflare Dashboard
+VITE_SANITY_PROJECT_ID = "YOUR_PROJECT_ID"
+VITE_SANITY_DATASET = "production"
